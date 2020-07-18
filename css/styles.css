@@ -36,3 +36,17 @@ body {
   font-family: sans-serif;
   font-size: 1em;
 }
+
+/* -----Media Queries----- */
+
+@media (min-width: 768px) {
+
+  #search {
+  width: 30%;
+  }
+
+  .gallery {
+    max-width: 1150px;
+  }
+
+}
